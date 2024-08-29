@@ -1,3 +1,1 @@
-
-vgvgjvjvbjm
-asdfasdf
+# 설정 안내용 test 리포지토리
